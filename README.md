@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdullah Al Mahmud Adib</h1>
 <h3 align="center">I'm currently deeply immersed in competitive programming, fervently mastering new algorithms!</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3079099-Coding-coding-coding">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalmahmudadib&label=Profile%20views&color=ff8040&style=plastic" alt="abdullahalmahmudadib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahalmahmudadib" alt="abdullahalmahmudadib" /></a> </p>
