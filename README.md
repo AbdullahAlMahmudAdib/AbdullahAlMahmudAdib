@@ -1,16 +1,17 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdullah Al Mahmud Adib</h1>
 <h3 align="center">I'm currently deeply immersed in competitive programming, fervently mastering new algorithms!</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalmahmudadib&label=Profile%20views&color=ff8040&style=plastic" alt="abdullahalmahmudadib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahalmahmudadib" alt="abdullahalmahmudadib" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+
+<p align="left"> <a href="https://twitter.com/aamadib01" target="blank"><img src="https://img.shields.io/twitter/follow/aamadib01?logo=twitter&style=for-the-badge" alt="aamadib01" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, Problem Solving**
 
 - 💬 Ask me about **DSA and Problem Solving in c++**
 
-- 📫 How to reach me **aamadib53@gmail.com**
+- 📫 Reach me **aamadib53@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +23,7 @@
 <a href="https://www.hackerrank.com/aamadib53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aamadib53" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abdullahalmahmudadib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdullahalmahmudadib" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/frank_castle01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="frank_castle01" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aamadib53" target="blank"><img align="center" src="" alt="@aamadib53" height="30" width="40" /></a>data:image/png;base64,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
+<a href="https://www.hackerearth.com/@aamadib53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aamadib53" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/abdullah_al_mahmud_adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abdullah_al_mahmud_adib" height="30" width="40" /></a>
 </p>
 
