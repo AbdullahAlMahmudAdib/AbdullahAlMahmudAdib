@@ -1,10 +1,11 @@
+![aamadib53](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 <h1 align="center">Hi 👋, I'm Abdullah Al Mahmud Adib</h1>
 <h3 align="center">I'm currently deeply immersed in competitive programming, fervently mastering new algorithms!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalmahmudadib&label=Profile%20views&color=ff8040&style=plastic" alt="abdullahalmahmudadib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahalmahmudadib" alt="abdullahalmahmudadib" /></a> </p>
-
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952rofd0g3kfmfu2lpwy918uoz7fmoet34kxzv9sat4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://twitter.com/aamadib01" target="blank"><img src="https://img.shields.io/twitter/follow/aamadib01?logo=twitter&style=for-the-badge" alt="aamadib01" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, Problem Solving**
@@ -35,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalmahmudadib&show_icons=true&locale=en" alt="abdullahalmahmudadib" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmahmudadib&" alt="abdullahalmahmudadib" /></p>
-
