@@ -1,6 +1,6 @@
 <!-- 🌈 HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=👋%20Hey!%20I'm%20Abdullah%20Al%20Mahmud%20Adib&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=👋%20Hey!%20I'm%20Abdullah%20Al%20Mahmud%20Adib&fontAlign=30&fontAlignY=40&color=gradient&fontColor=ffffff"/>
 </div>
 
 <!-- 🔥 Animated Typing Text -->
