@@ -93,50 +93,80 @@
 
 ---
 
-## ⚡ Competitive Programming Stats  
-
-<div align="center">
-
-  <!-- 🧮 Codeforces -->
-  <a href="https://codeforces.com/profile/N0wh3r3R1ddl3">
-    <img
-      src="https://codeforces-readme-stats.vercel.app/api/card?username=N0wh3r3R1ddl3&theme=tokyonight&border_color=00000000"
-      width="45%"
-      alt="Codeforces Stats"
-    />
-  </a>
-
-  <!-- 💡 LeetCode -->
-  <a href="https://leetcode.com/u/frank_castle01/">
-    <img
-      src="https://leetcard.jacoblin.cool/frank_castle01?theme=tokyonight&font=Fira%20Code&ext=heatmap"
-      width="45%"
-      alt="LeetCode Stats"
-    />
-  </a>
-
-  <br/>
-
-  <!-- 🍲 CodeChef -->
-  <a href="https://www.codechef.com/users/frank_castle01">
-    <img
-      src="https://codechef-readme-stats.vercel.app/api/card?username=frank_castle01&theme=tokyonight"
-      width="45%"
-      alt="CodeChef Stats"
-    />
-  </a>
-
-  <!-- 🧩 CSES -->
-  <a href="https://cses.fi/user/232848">
-    <img
-      src="https://img.shields.io/badge/CSES-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"
-      width="45%"
-      alt="CSES Profile"
-    />
-  </a>
-
-</div>
-
+## <picture><img src = "https://i.giphy.com/W5eoZHPpUx9sapR0eu.webp?raw=true" width = 50px></picture> Github Stats
+<table>
+	<!-- Row - 1 -->
+  <tr>
+    <td>
+      <img
+        src="https://github-contributor-stats.vercel.app/api?username=AbdullahAlMahmudAdib&limit=5&theme=transparent&combine_all_yearly_contributions=true&show_icons=true&hide_border=true"
+        width="700"
+        alt="Top 5 Contributors"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AbdullahAlMahmudAdib&theme=transparent&layout=compact&hide_border=true"
+        width="80%"
+        style="display: block; margin-left: auto;"
+        alt="Repos-Per-Language"
+      />
+    </td>
+  </tr>
+	<!-- Row - 2 -->
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahAlMahmudAdib&theme=transparent&hide_border=true"
+        width="700"
+        alt="Streak Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlMahmudAdib&langs_count=6&theme=transparent&layout=compact&hide_border=true"
+        width="100%"
+        style="display: block; margin-left: auto;"
+        alt="Top Languages"
+      />
+    </td>
+  </tr>
+	<!-- Row - 3 -->
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=AbdullahAlMahmudAdib&theme=transparent&hide_border=true"
+        width="700"
+        alt="Overall GitHub Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahAlMahmudAdib&layout=compact&theme=transparent&hide_border=true"
+        width="100%"
+        alt="Profile Details"
+      />
+    </td>
+  </tr>
+<!-- Row - 4 -->
+<tr>
+    <td>
+      <img
+        src="https://codeforces-readme-stats.vercel.app/api/card?username=N0wh3r3R1ddl3&theme=transparent&force_username=true&border_color=00000000"
+        width="100%"
+        alt="M0stafa Codeforces Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://leetcard.jacoblin.cool/frank_castle01?theme=transparent&border=0&radius=8&hide=background&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css"
+        width="100%"
+        alt="Mostafa's Leetcode Stats"
+      />
+    </td>
+  </tr>
+  
+</table>
 
 ---
 
