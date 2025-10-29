@@ -13,7 +13,10 @@
 <!-- 🌟 Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/abdullah-al-mahmud-adib-0ab89527a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/AAMAdib01"><img src="https://img.shields.io/badge/-X-000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
   <a href="https://www.facebook.com/abdullah.al.mahmud.adib/"><img src="https://img.shields.io/badge/-Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@AdibOfficial47"><img src="https://img.shields.io/badge/-YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.quora.com/profile/AAM-Adib"><img src="https://img.shields.io/badge/-Quora-B92B27.svg?style=for-the-badge&logo=quora&logoColor=white"/></a>
   <a href="mailto:aamadib53@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
@@ -38,10 +41,11 @@
 ## 🏆 Competitive Programming  
 
 <p align="center">
-  <a href="https://codeforces.com/profile/N0wh3r3R1ddl3"><img src="https://img.shields.io/badge/Codeforces-%23E4405F.svg?&style=for-the-badge&logo=codeforces&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/AtCoder-1F8ACB.svg?&style=for-the-badge&logo=atcoder&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/N0wh3r3R1ddl3"><img src="https://img.shields.io/badge/Codeforces-%231F8ACB.svg?&style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/frank_castle01/"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.codechef.com/users/frank_castle01"><img src="https://img.shields.io/badge/CodeChef-5B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://cses.fi/user/232848"><img src="https://img.shields.io/badge/CSES-0078D7.svg?&style=for-the-badge&logo=codeproject&logoColor=white"/></a>
+  <a href="https://vjudge.net/user/frank_castle"><img src="https://img.shields.io/badge/VJudge-FF5722.svg?&style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
@@ -79,7 +83,7 @@
 
 | 🔥 Stats | 🏆 Streak |
 |:--:|:--:|
-| <img src="https://github-readme-stats.vercel.app/api?username=aam-adib&show_icons=true&theme=tokyonight&hide_border=true" width="400"/> | <img src="https://streak-stats.demolab.com?user=aam-adib&theme=tokyonight&hide_border=true" width="400"/> |
+| <img src="https://github-readme-stats.vercel.app/api?username=AbdullahAlMahmudAdib&show_icons=true&theme=tokyonight&hide_border=true" width="400"/> | <img src="https://streak-stats.demolab.com?user=AbdullahAlMahmudAdib&theme=tokyonight&hide_border=true" width="400"/> |
 
 | 📈 Languages | 🧩 Contributions |
 |:--:|:--:|
@@ -101,8 +105,8 @@
 
 <div align="center">
   
-[![Optimus Prime](https://github-readme-stats.vercel.app/api/pin/?username=aam-adib&repo=Optimus-Prime&theme=tokyonight)](https://github.com/aam-adib/Optimus-Prime)
-[![Online Coaching Management System](https://github-readme-stats.vercel.app/api/pin/?username=aam-adib&repo=Online-Coaching-Management-System&theme=tokyonight)](https://github.com/aam-adib/Online-Coaching-Management-System)
+[![Optimus Prime](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlMahmudAdib&repo=Optimus-Prime&theme=tokyonight)](https://github.com/AbdullahAlMahmudAdib/Optimus-Prime)
+[![Online Coaching Management System](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahAlMahmudAdib&repo=Online-Coaching-Management-System&theme=tokyonight)](https://github.com/AbdullahAlMahmudAdib/Online-Coaching-Management-System)
 
 </div>
 
@@ -110,8 +114,8 @@
 
 ## 🌐 Activity & Achievements  
 
-<img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aam-adib&theme=tokyo-night&hide_border=true"/>
-<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=aam-adib&theme=tokyonight&row=1&no-frame=true"/>
+<img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahAlMahmudAdib&theme=tokyo-night&hide_border=true"/>
+<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=AbdullahAlMahmudAdib&theme=tokyonight&row=1&no-frame=true"/>
 
 ---
 
