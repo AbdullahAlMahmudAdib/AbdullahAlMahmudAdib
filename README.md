@@ -93,13 +93,34 @@
 
 ---
 
-## ⚡ Codeforces Stats  
+## ⚡ Competitive Programming Stats  
 
 <div align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=N0wh3r3R1ddl3&theme=tokyonight&border_color=00000000" width="50%"/>
+
+  <!-- 🧮 Codeforces -->
+  <a href="https://codeforces.com/profile/N0wh3r3R1ddl3">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=N0wh3r3R1ddl3&theme=tokyonight&border_color=00000000" width="48%"/>
+  </a>
+
+  <!-- 💡 LeetCode -->
+  <a href="https://leetcode.com/u/frank_castle01/">
+    <img src="https://leetcard.jacoblin.cool/frank_castle01?theme=tokyonight&font=Fira%20Code&ext=heatmap" width="48%"/>
+  </a>
+
+  <!-- 🍲 CodeChef -->
+  <a href="https://www.codechef.com/users/frank_castle01">
+    <img src="https://codechef-readme-stats.vercel.app/api/card?username=frank_castle01&theme=tokyonight" width="48%"/>
+  </a>
+
+  <!-- 🧩 CSES -->
+  <a href="https://cses.fi/user/232848">
+    <img src="https://img.shields.io/badge/CSES-Profile-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" width="48%"/>
+  </a>
+
 </div>
 
 ---
+
 
 ## 🧩 Featured Projects  
 
