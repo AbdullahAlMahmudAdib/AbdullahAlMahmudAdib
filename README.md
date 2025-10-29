@@ -1,38 +1,121 @@
-![aamadib53](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
-<h1 align="center">Hi 👋, I'm Abdullah Al Mahmud Adib</h1>
-<h3 align="center">I'm currently deeply immersed in competitive programming, fervently mastering new algorithms!</h3>
+<!-- 🌈 HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&text=👋%20Hey!%20I'm%20Abdullah%20Al%20Mahmud%20Adib&fontAlign=50&fontAlignY=40&color=gradient&fontColor=ffffff"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahalmahmudadib&label=Profile%20views&color=ff8040&style=plastic" alt="abdullahalmahmudadib" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdullahalmahmudadib" alt="abdullahalmahmudadib" /></a> </p>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952rofd0g3kfmfu2lpwy918uoz7fmoet34kxzv9sat4&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-<p align="left"> <a href="https://twitter.com/aamadib01" target="blank"><img src="https://img.shields.io/twitter/follow/aamadib01?logo=twitter&style=for-the-badge" alt="aamadib01" /></a> </p>
-
-- 🌱 I’m currently learning **DSA, Problem Solving**
-
-- 💬 Ask me about **DSA and Problem Solving in c++**
-
-- 📫 Reach me **aamadib53@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aamadib01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aamadib01" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdullah-al-mahmud-adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-al-mahmud-adib" height="30" width="40" /></a>
-<a href="https://fb.com/abdullah al mahmud adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdullah al mahmud adib" height="30" width="40" /></a>
-<a href="https://instagram.com/aam.adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aam.adib" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/frank_castle01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="frank_castle01" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aamadib53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aamadib53" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdullahalmahmudadib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdullahalmahmudadib" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/frank_castle01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="frank_castle01" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@aamadib53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@aamadib53" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abdullah_al_mahmud_adib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abdullah_al_mahmud_adib" height="30" width="40" /></a>
+<!-- 🔥 Animated Typing Text -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=💻+Full+Stack+Developer;🏆+Competitive+Programmer;⚔️+Codeforces+Coder;🚀+CSE+Student+at+JUST;🤖+Tech+Explorer"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- 🌟 Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-al-mahmud-adib-0ab89527a/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.facebook.com/abdullah.al.mahmud.adib/"><img src="https://img.shields.io/badge/-Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:aamadib53@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahalmahmudadib&show_icons=true&locale=en&layout=compact" alt="abdullahalmahmudadib" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullahalmahmudadib&show_icons=true&locale=en" alt="abdullahalmahmudadib" /></p>
+## 🧠 About Me  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahalmahmudadib&" alt="abdullahalmahmudadib" /></p>
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Right_Side.gif" width="400"/>
+
+- 🎓 **CSE Student** at *Jashore University of Science and Technology (JUST)*  
+- 💻 Passionate about **Web Development** and **Competitive Programming**  
+- ⚙️ Skilled in **Frontend**, **Backend**, and **Problem Solving**  
+- 🚀 Always exploring new tech tools and frameworks  
+- 🧠 Currently focusing on:
+  - MERN Stack Development  
+  - Data Structures & Algorithms  
+  - Dynamic Programming  
+  - Computer Networks & System Design  
+
+---
+
+## 🏆 Competitive Programming  
+
+<p align="center">
+  <a href="https://codeforces.com/profile/N0wh3r3R1ddl3"><img src="https://img.shields.io/badge/Codeforces-%23E4405F.svg?&style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AtCoder-1F8ACB.svg?&style=for-the-badge&logo=atcoder&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/CodeChef-5B4638.svg?&style=for-the-badge&logo=codechef&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tech Stack  
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🎨 Frontend  
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php" />
+
+</td>
+<td align="center" width="33%">
+
+### 🧑‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=cpp,python,js,java,c" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+| 🔥 Stats | 🏆 Streak |
+|:--:|:--:|
+| <img src="https://github-readme-stats.vercel.app/api?username=aam-adib&show_icons=true&theme=tokyonight&hide_border=true" width="400"/> | <img src="https://streak-stats.demolab.com?user=aam-adib&theme=tokyonight&hide_border=true" width="400"/> |
+
+| 📈 Languages | 🧩 Contributions |
+|:--:|:--:|
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aam-adib&layout=compact&theme=tokyonight&hide_border=true" width="400"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aam-adib&theme=tokyonight&hide_border=true" width="400"/> |
+
+</div>
+
+---
+
+## ⚡ Codeforces Stats  
+
+<div align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=N0wh3r3R1ddl3&theme=tokyonight&border_color=00000000" width="50%"/>
+</div>
+
+---
+
+## 🧩 Featured Projects  
+
+<div align="center">
+  
+[![Optimus Prime](https://github-readme-stats.vercel.app/api/pin/?username=aam-adib&repo=Optimus-Prime&theme=tokyonight)](https://github.com/aam-adib/Optimus-Prime)
+[![Online Coaching Management System](https://github-readme-stats.vercel.app/api/pin/?username=aam-adib&repo=Online-Coaching-Management-System&theme=tokyonight)](https://github.com/aam-adib/Online-Coaching-Management-System)
+
+</div>
+
+---
+
+## 🌐 Activity & Achievements  
+
+<img align="center" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aam-adib&theme=tokyo-night&hide_border=true"/>
+<img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=aam-adib&theme=tokyonight&row=1&no-frame=true"/>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=gradient"/>
+  <p>💙 Designed by <b>Abdullah Al Mahmud Adib</b> | Updated on 29/10/2025</p>
+</div>
