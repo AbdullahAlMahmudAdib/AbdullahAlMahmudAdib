@@ -83,7 +83,7 @@
 
 | 📈 Languages | 🧩 Contributions |
 |:--:|:--:|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aam-adib&layout=compact&theme=tokyonight&hide_border=true" width="400"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aam-adib&theme=tokyonight&hide_border=true" width="400"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAlMahmudAdib&layout=compact&theme=tokyonight&hide_border=true" width="400"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdullahAlMahmudAdib&theme=tokyonight&hide_border=true" width="400"/> |
 
 </div>
 
